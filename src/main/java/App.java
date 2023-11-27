@@ -1,5 +1,3 @@
-package by.itstep;
-
 /**
  * Hello world!
  *
